@@ -1,0 +1,2 @@
+# epic-react-with-fsharp
+Learn how to build production-ready frontend applications with React. This repository represents my own work while learning through the course material of Kent C. Dodds in his awesome course named 'Pro Epic React'. We cover react fundamentals, hooks, advanced react patterns, everything related to performance, testing and the experimental suspense feature. You can also expect to find the gigantic app that we're building in the course. 
